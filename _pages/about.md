@@ -2,7 +2,7 @@
 permalink: /
 title: "Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,10 +15,10 @@ I'm a linguist, but sometimes I'm not sure if I can call myself one yet (what ev
 
 <strong>What's new?</strong>
 
-
-* Starting from Aug 2026, I'll be a Research Masters student at the <a href="https://fass.nus.edu.sg/elts/">Department of English, Linguistics and Theatre Studies, National University of Singapore</a>.
-
-* My first paper is published! Check it out <a href="https://journals.sagepub.com/doi/10.1177/13670069251405684?__cf_chl_f_tk=Je3JD2ZHiBOg7c9O6bh63WbOnQCBEsK8cOReGBP1sG0-1782993785-1.0.1.1-UApkNu_rpjJBdzZnfs0r2aIh2LHxrehZVQcjvYDbH5E">here</a>.
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>Starting from Aug 2026, I'll be a Research Masters student at the <a href="https://fass.nus.edu.sg/elts/">Department of English, Linguistics and Theatre Studies, National University of Singapore</a>.</li>
+  <li>My first paper is published! Check it out <a href="https://journals.sagepub.com/doi/10.1177/13670069251405684?__cf_chl_f_tk=Je3JD2ZHiBOg7c9O6bh63WbOnQCBEsK8cOReGBP1sG0-1782993785-1.0.1.1-UApkNu_rpjJBdzZnfs0r2aIh2LHxrehZVQcjvYDbH5E">here</a>.</li>
+</ul>
 
 </div>
 

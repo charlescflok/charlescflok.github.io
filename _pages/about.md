@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Hello"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello, I'm Lok Cheuk Fung. I go by Charles.
+I'm Lok Cheuk Fung. I usually go by Charles.
 
 I'm a linguist, but sometimes I'm not sure if I can call myself one yet (what even are the criteria, anyway?) Hopefully one day I can say it out loud with real confidence. I'm working towards that every day.
 

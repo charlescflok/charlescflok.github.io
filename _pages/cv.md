@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src="/files/cv.pdf" width="100%" height="800px" style="border: none;"></iframe>
+You can download my CV [here](/files/lokcheukfung_cv.pdf).
 
 

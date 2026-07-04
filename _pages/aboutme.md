@@ -5,7 +5,7 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-My Chinese/Cantonese name is 駱卓峰 (IPA: lɔːk̚˧.t͡sʰœːk̚˧.foŋ˥; Jyutping: lok6 coek3 fung1). It's transcribed as Lok Cheuk Fung in English but I normally go by Charles.
+My Chinese/Cantonese name is 駱卓峰 (IPA: lɔːk̚˧ t͡sʰœːk̚˧ foŋ˥; Jyutping: lok6 coek3 fung1). It's transcribed as Lok Cheuk Fung in English but I normally go by Charles.
 If you're from a western cultural background and you're not (much) older than me/ not my teacher/ not my senior of some sort, please don't call me Cheuk Fung coz it feels kinda cringe to me.
 <a href="https://youtu.be/T5xyVBqOSog?si=35jf-pyVqysIDbT6" target="_blank">This</a> is a youtube video I found that best explains why it's not the most socially appropriate thing to do in my culture.
 
@@ -17,4 +17,4 @@ Having all that said, I do think generative grammar is a powerful model of langu
 
 Anyway, these are just some of my current thoughts about linguistics. Since I'm only a student now (haven't even started my Masters study), my view may (or mostly certainly will) change. I'm more than happy to have discussions, so if you feel like what I just wrote are totally wrong/ missing some important points that I haven't considered/ you agree with me completely or partially, feel free to send me an email! 
 
-Outside of linguistics, I'm a turtle lover, a bookworm, a table tennis player.
+Outside of linguistics, I'm a turtle lover, a bookworm, a table tennis leisure player, a moviegoer, and a food lover. I have two turtles. You can check out their photo here. I think I'm confident enough to say that I read a lot and have a wide range of reading interests: literary fictions aka ones that are considered serious (and boring), pop lit, Japanese light novels, basically novels in both English or Chinese, non-fictions about history, science, fine arts, philosophy, biographies, and even some ancient Chinese texts/classics. Some of my favourite books are Surely You're Joking, Mr. Feynman!, Immortality, 

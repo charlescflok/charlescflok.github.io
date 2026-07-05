@@ -5,20 +5,31 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-<!-- START AUTOMATIC SLIDESHOW CAROUSEL -->
-<!-- ADJUST THE HEIGHT BELOW: Change 400px to 300px, 500px, etc. to change the slide size -->
-<div class="slider-container" style="position: relative; width: 100%; height: 400px; max-height: 50vh; overflow: hidden; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background-color: #f9f9f9;">
+<!-- START BLURRED BACKGROUND AUTOMATIC SLIDESHOW -->
+<div class="slider-container" style="position: relative; width: 100%; height: 400px; max-height: 50vh; overflow: hidden; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: #000;">
 
+<!-- Slide 1 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: block;">
-<img src="/images/hochimingtinhautemple.jpg" style="width: 100%; height: 100%; object-fit: contain;">
+<img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
+<!-- Slide 2 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/sevensisterscliff.jpg" style="width: 100%; height: 100%; object-fit: contain;">
+<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
+<!-- Slide 3 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/praguecharlesbridge.jpg" style="width: 100%; height: 100%; object-fit: contain;">
+<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+</div>
+
+<!-- Slide 4 -->
+<div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
+<img src="/images/fujimountwater.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 </div>
@@ -46,7 +57,7 @@ setTimeout(rotateCarousel, 4000);
 rotateCarousel();
 })();
 </script>
-<!-- END AUTOMATIC SLIDESHOW CAROUSEL -->
+<!-- END BLURRED BACKGROUND AUTOMATIC SLIDESHOW -->
 
 I'm from Hong Kong. My Chinese/Cantonese name is 駱卓峰 (IPA: lɔːk̚˧ t͡sʰœːk̚˧ foŋ˥; Jyutping: lok6 coek3 fung1). It's transcribed as Lok Cheuk Fung in English but I normally go by Charles.
 

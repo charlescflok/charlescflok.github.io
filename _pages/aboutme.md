@@ -36,7 +36,7 @@ elements[i].style.display = "none";
 currentIdx++;
 if (currentIdx > elements.length) { currentIdx = 1; }    
 elements[currentIdx - 1].style.display = "block";  
-setTimeout(rotateCarousel, 4000); 
+setTimeout(rotateCarousel, 5000); 
 }
 rotateCarousel();
 })();

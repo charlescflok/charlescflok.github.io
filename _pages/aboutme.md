@@ -8,7 +8,7 @@ author_profile: true
 <!-- START AUTOMATIC SLIDESHOW CAROUSEL -->
 <div class="slider-container" style="position: relative; width: 100%; height: 350px; max-height: 40vh; overflow: hidden; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: block;">
-<img src="/images/hochimingtinhautemple.jpg.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/hochimingtinhautemple.jpg" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
 <img src="/images/sevensisterscliff.jpg" style="width: 100%; height: 100%; object-fit: cover;">

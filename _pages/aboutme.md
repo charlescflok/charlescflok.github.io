@@ -77,23 +77,6 @@ rotateCarousel();
 </script>
 <!-- END FROSTED GLASS AUTOMATIC SLIDESHOW -->
 
-<style>
-  /* Force the footer to stay at the bottom of the viewport on short pages */
-  body, .page__wrapper {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
-  
-  .page__footer {
-    margin-top: auto !important;
-  }
-
-  /* Add a little extra breathing room between your text and the footer */
-  .page__content {
-    margin-bottom: 60px;
-  }
-</style>
 
 I'm from Hong Kong. My Chinese/Cantonese name is 駱卓峰 (IPA: lɔːk̚˧ t͡sʰœːk̚˧ foŋ˥; Jyutping: lok6 coek3 fung1). It's transcribed as Lok Cheuk Fung in English but I normally go by Charles.
 

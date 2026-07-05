@@ -77,6 +77,24 @@ rotateCarousel();
 </script>
 <!-- END FROSTED GLASS AUTOMATIC SLIDESHOW -->
 
+<style>
+  /* Force the footer to stay at the bottom of the viewport on short pages */
+  body, .page__wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .page__footer {
+    margin-top: auto !important;
+  }
+
+  /* Add a little extra breathing room between your text and the footer */
+  .page__content {
+    margin-bottom: 60px;
+  }
+</style>
+
 I'm from Hong Kong. My Chinese/Cantonese name is 駱卓峰 (IPA: lɔːk̚˧ t͡sʰœːk̚˧ foŋ˥; Jyutping: lok6 coek3 fung1). It's transcribed as Lok Cheuk Fung in English but I normally go by Charles.
 
 I'm a linguistics student and I do linguistics research. In my undergraduate years, I started off being interested in theoretical syntax and Chinese linguistics (both Modern Chinese and Ancient Chinese) so I initially majored in Chinese Language and Literature in CUHK. My interest shifted after taking some courses, reading more about linguistics, and talking with some friends. As my interests in interdisciplinary approaches to linguistics had grown, eventually I transferred to the Department of Linguistics and Modern Languages, where I did a corpus study on bilingual acquisition under the excellent supervision and guidance of <a href="http://vyip.cbrchk.org/" target="_blank">Prof. Virginia Yip</a>, <a href="https://professorstephenmatthews.godaddysites.com/" target="_blank">Prof. Stephen Matthews</a>, and <a href="https://www.ling.upenn.edu/~jonhnlee/" target="_blank">Jonathan Him Nok Lee</a>. (<a href="https://journals.sagepub.com/doi/10.1177/13670069251405684?__cf_chl_f_tk=FQp5lCKUcuInz3C9gIW_KfaVsbKcAH5w2SV0wziB0jg-1783237233-1.0.1.1-Pj8adx0nUadcHAX17_gOO2h00nCKqMH_PlbXf.eCV5o" target="_blank">The study</a> got published in the International Journal of Bilingualism lately btw.) Currently I'd say that my research interests are psycholinguistics and language acquisition.

@@ -27,8 +27,8 @@ author:
   name             : "Charles"
   pronouns         : # example: "she/her"  
   bio              : "Linguistics, turtle, and food"
-  location         : "Hong Kong & Singapore"
-  employer         : "Chinese University of Hong Kong"
+  location         : "Hong Kong"
+  institution      : "CUHK"
   uri              : # URL
   email            : "lokcheukfungcharles@u.nus.edu" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

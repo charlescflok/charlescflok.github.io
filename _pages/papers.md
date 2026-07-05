@@ -18,19 +18,19 @@ author_profile: true
 
 1. **Lok, C.** (2025, November 1). Sentence-Final Particles in Late Archaic Chinese 
 [Conference presentation]. The 6th International Workshop on Syntactic Cartography, 
-Hong Kong. 
+Hong Kong.  [Manuscript](/files/AncientChinManuscript.pdf)
 
 2. **Lok, C.** (2025, July 19). Is Cantonese Dou1 Changing? [Conference presentation]. The 
-25th Workshop on Cantonese, Hong Kong.
+25th Workshop on Cantonese, Hong Kong.  [Slides](/files/CharlesLok_WOC-25.pdf)
 
 <span style="font-size: 1.2em;">**2024**</span>
 
 1. **Lok, C.**, Lee, J. H. N., Matthews, S. & Yip, V. (2024, July 15). Responses to Cantonese 
 A-not-A questions by Cantonese-English Bilingual children [Conference presentation]. 
-The 12th European Conference on Language Learning, London, United Kingdom.
+The 12th European Conference on Language Learning, London, United Kingdom. [Slides](/files/ECLL2024_Charles.pdf)
 
 <span style="font-size: 1.2em;">**2023**</span>
 
 1. **Lok, C.**, Lee, J. H. N., Matthews, S. & Yip, V. (2023, June 30). Responses to Cantonese 
 A-not-A questions by Cantonese-English bilingual children [Poster presentation]. The 14th 
-International Symposium on Bilingualism, Sydney, Australia.
+International Symposium on Bilingualism, Sydney, Australia.  [Poster](ISBposter.pdf)

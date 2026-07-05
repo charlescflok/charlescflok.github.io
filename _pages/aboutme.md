@@ -5,31 +5,49 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-<!-- START BLURRED BACKGROUND AUTOMATIC SLIDESHOW -->
-<div class="slider-container" style="position: relative; width: 100%; height: 400px; max-height: 50vh; overflow: hidden; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: #000;">
+<!-- START FROSTED GLASS AUTOMATIC SLIDESHOW -->
+<div class="slider-container" style="position: relative; width: 100%; height: 400px; max-height: 50vh; overflow: hidden; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: #111;">
 
 <!-- Slide 1 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: block;">
-<img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
+<img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);"></div>
 <img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 2 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
+<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);"></div>
 <img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 3 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
+<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);"></div>
 <img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 4 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
+<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);"></div>
 <img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+</div>
+
+<!-- Slide 5 -->
+<div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
+<img src="/images/berlinsnowy.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);"></div>
+<img src="/images/berlinsnowy.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+</div>
+
+<!-- Slide 6 -->
+<div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
+<img src="/images/parismonet.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);"></div>
+<img src="/images/parismonet.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 </div>
@@ -57,7 +75,7 @@ setTimeout(rotateCarousel, 4000);
 rotateCarousel();
 })();
 </script>
-<!-- END BLURRED BACKGROUND AUTOMATIC SLIDESHOW -->
+<!-- END FROSTED GLASS AUTOMATIC SLIDESHOW -->
 
 I'm from Hong Kong. My Chinese/Cantonese name is 駱卓峰 (IPA: lɔːk̚˧ t͡sʰœːk̚˧ foŋ˥; Jyutping: lok6 coek3 fung1). It's transcribed as Lok Cheuk Fung in English but I normally go by Charles.
 

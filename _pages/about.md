@@ -7,38 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-header:
-  actions:
-    - html: |
-        <div class="top-slider" style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%); height: 380px; overflow: hidden; background: #000;">
-          <div class="topSlide fade-in" style="position: absolute; width: 100%; height: 100%; display: block;"><img src="/images/parismonet.jpg" style="width:100%; height:100%; object-fit:cover;"></div>
-          <div class="topSlide fade-in" style="position: absolute; width: 100%; height: 100%; display: none;"><img src="/images/hochimingtinhautemple.jpg" style="width:100%; height:100%; object-fit:cover;"></div>
-          <div class="topSlide fade-in" style="position: absolute; width: 100%; height: 100%; display: none;"><img src="/images/sevensisterscliff.jpg" style="width:100%; height:100%; object-fit:cover;"></div>
-        </div>
-        <style>
-          .fade-in { animation: headerFade 1.2s ease-in-out; }
-          @keyframes headerFade { from { opacity: 0.3; } to { opacity: 1; } }
-          /* Ensure the theme's core header wrapper doesn't trap our full-bleed images */
-          .page__hero--overlay { padding: 0 !important; margin: 0 !important; background: transparent !important; }
-        </style>
-        <script>
-          (function() {
-            let idx = 0;
-            function runHeaderCarousel() {
-              let arr = document.getElementsByClassName("topSlide");
-              if (!arr.length) return;
-              for (let i = 0; i < arr.length; i++) arr[i].style.display = "none";
-              idx++;
-              if (idx > arr.length) idx = 1;
-              arr[idx-1].style.display = "block";
-              setTimeout(runHeaderCarousel, 4000);
-            }
-            document.addEventListener("DOMContentLoaded", runHeaderCarousel);
-            setTimeout(function() { if(document.getElementsByClassName("topSlide")[0]?.style.display === "none" && idx === 0) runHeaderCarousel(); }, 600);
-          })();
-        </script>
----
-
 I'm Lok Cheuk Fung. I usually go by Charles.
 
 I'm a linguist, but sometimes I'm not sure if I can call myself one yet (what even are the criteria, anyway?) Hopefully one day I can say it out loud with real confidence. I'm working towards that every day.

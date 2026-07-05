@@ -34,4 +34,4 @@ The 12th European Conference on Language Learning, London, United Kingdom. [Slid
 
 1. **Lok, C.**, Lee, J. H. N., Matthews, S. & Yip, V. (2023, June 30). Responses to Cantonese 
 A-not-A questions by Cantonese-English bilingual children [Poster presentation]. The 14th 
-International Symposium on Bilingualism, Sydney, Australia.  [Poster](ISBposter.pdf)
+International Symposium on Bilingualism, Sydney, Australia.  [Poster](/files/ISBposter.pdf)

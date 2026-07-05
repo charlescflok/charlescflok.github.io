@@ -16,19 +16,19 @@ author_profile: true
 
 <!-- Slide 2 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
 <img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 3 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
 <img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 4 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(20px) brightness(0.6); opacity: 0.7; z-index: 1;">
+<img src="/images/fujimountwater.jpg" style="position: absolute; width: 110%; height: 110%; top: -5%; left: -5%; object-fit: cover; filter: blur(5px) brightness(0.8); opacity: 0.4; z-index: 1;">
 <img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 

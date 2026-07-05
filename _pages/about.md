@@ -12,17 +12,17 @@ redirect_from:
   
   <!-- Slide 1 -->
   <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%;">
-    <img src="/images/banner1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="/images/sevensisterscliff.jpg" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%;">
-    <img src="/images/banner2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="/images/hochimingtinhautemple.jpg" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%;">
-    <img src="/images/banner3.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="/images/parismonet.jpg" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
 </div>

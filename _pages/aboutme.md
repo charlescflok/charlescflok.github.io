@@ -9,51 +9,50 @@ author_profile: true
 <div class="slider-container" style="position: relative; width: 100%; height: 350px; max-height: 40vh; overflow: hidden; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
   
   <!-- Slide 1 -->
-  <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%;">
-    <img src="/images/sevensisterscliff.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: block;">
+    <img src="/images/sevensisterscliff.jpg.jpg" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
   <!-- Slide 2 -->
-  <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%;">
-    <img src="/images/hochimingtinhautemple.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
+    <img src="/images/praguecharlesbridge.jpg" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
   <!-- Slide 3 -->
-  <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%;">
-    <img src="/images/parismonet.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
+    <img src="/images/hochimingtinhautemple.jpg" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
 </div>
 
-<!-- CSS Animations & JavaScript Driver Code -->
+<!-- CSS Animations -->
 <style>
-  .fade-anim {
-    animation: fadeEffect 1.5s ease-in-out;
-  }
-  @keyframes fadeEffect {
-    from { opacity: 0.4; } 
-    to { opacity: 1; }
-  }
+  .fade-anim { animation: fadeEffect 1.2s ease-in-out; }
+  @keyframes fadeEffect { from { opacity: 0.4; } to { opacity: 1; } }
 </style>
 
+<!-- Self-Executing Driver Engine -->
 <script>
-  let slideIndex = 0;
-  function showSlides() {
-    let slides = document.getElementsByClassName("mySlides");
-    for (let i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+  (function() {
+    let currentIdx = 0;
+    function rotateCarousel() {
+      let elements = document.getElementsByClassName("mySlides");
+      if (!elements || elements.length === 0) {
+        // If theme template layout delay occurs, retry in 200ms
+        setTimeout(rotateCarousel, 200);
+        return;
+      }
+      for (let i = 0; i < elements.length; i++) {
+        elements[i].style.display = "none";  
+      }
+      currentIdx++;
+      if (currentIdx > elements.length) { currentIdx = 1; }    
+      elements[currentIdx - 1].style.display = "block";  
+      setTimeout(rotateCarousel, 4000); 
     }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}    
-    if (slides[slideIndex-1]) {
-      slides[slideIndex-1].style.display = "block";  
-    }
-    setTimeout(showSlides, 4000); // Changes image automatically every 4 seconds
-  }
-  // Run once page elements construct completely
-  document.addEventListener("DOMContentLoaded", showSlides);
-  // Fail-safe trigger if cache loads fast
-  setTimeout(function() { if(document.getElementsByClassName("mySlides")[0]?.style.display === "none" && slideIndex === 0) showSlides(); }, 500);
+    // Kickstart immediately without waiting for global DOM listeners
+    rotateCarousel();
+  })();
 </script>
 <!-- END AUTOMATIC SLIDESHOW CAROUSEL -->
 

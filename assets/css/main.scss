@@ -38,24 +38,3 @@
     "layout/json_cv"
 ;
 
-/* --- GLOBAL STICKY FOOTER FIX --- */
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-}
-
-/* Force the main container to absorb all remaining empty vertical space */
-#main {
-  flex: 1 0 auto;
-}
-
-/* Ensure the footer is explicitly structurally pushed to the bottom */
-.page__footer {
-  flex-shrink: 0;
-  margin-top: auto !important;
-}

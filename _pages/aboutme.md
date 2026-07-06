@@ -10,44 +10,44 @@ author_profile: true
 
 <!-- Slide 1 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: block;">
-<img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/hk.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/sevensisterscliff.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/hk.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 2 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/tungtau.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/praguecharlesbridge.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/tungtau.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 3 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/taiwanbeach.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/hochimingtinhautemple.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/taiwanbeach.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 4 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/readingDM.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/readingDM.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 5 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/berlinsnowy.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/UClib.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/berlinsnowy.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/UClib.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 6 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/parismonet.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/ylchungkee.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/parismonet.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/ylchungkee.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 </div>

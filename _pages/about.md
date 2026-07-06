@@ -33,9 +33,9 @@ redirect_from:
 
 <!-- Slide 4 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/taiwanbeach.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/taiwanbeach.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 5 -->

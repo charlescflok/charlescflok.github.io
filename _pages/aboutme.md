@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to my page!"
+title: "Hello!"
 permalink: /aboutme/
 author_profile: true
 ---

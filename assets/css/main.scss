@@ -81,3 +81,12 @@ body {
 .page__footer {
   margin-bottom: 0 !important;
 }
+
+.site-content {
+  padding-top: 80px;   /* Adjust this number */
+}
+
+/* If you have sidebar pages, also protect them */
+#main {
+  padding-top: 20px;
+}

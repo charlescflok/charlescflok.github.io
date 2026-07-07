@@ -1,5 +1,5 @@
 /* ==========================================================================
-   FOOTER
+   FOOTER + FLEX FIX
    ========================================================================== */
 
 .page__footer {
@@ -7,24 +7,16 @@
   background-color: var(--global-footer-bg-color);
   color: var(--global-text-color-light);
 
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 3em;
-  margin-bottom: 0;
+  margin: 3em 0 0 0;
   width: 100%;
   clear: both;
 
-  /* keep footer in normal document flow so custom widgets do not overlap content */
-  height: auto;
-
-  /* keep the footer on the bottom of the page */
   position: relative;
   z-index: 10;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
-  -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  animation-delay: 0.45s;
   border-top: 1px solid var(--global-dark-border-color);
 
   footer {
@@ -49,95 +41,49 @@
     }
   }
 
-  .fas,
-  .fab,
-  .far,
-  .fal {
+  .fas, .fab, .far, .fal {
     color: var(--global-text-color-light);
   }
 }
 
-@media screen and (max-width: 768px) {
-  /* don't pin the footer on mobile devices */
-  .page__footer {
-    position: relative;
-    bottom: auto;
-  }
-}
-
-.page__footer-copyright {
-  font-family: $global-font-family;
-  font-size: $type-size-7;
-}
-
-.page__footer-follow {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
-
-  li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
-  }
-
-  a {
-    padding-right: 10px;
-    font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
-}
-
-/* Remove extra space below footer */
-body {
-  padding-bottom: 0 !important;   /* Override the template's 9em padding */
-}
-
-.page__footer {
-  margin-bottom: 0;
-  padding-bottom: 1em;   /* Keep some internal padding if you want */
-}
-
-/* Optional: tighter footer */
-.page__footer footer {
-  padding-bottom: 0.5em;
-}
-
-/* === REMOVE EXTRA SPACE BELOW FOOTER === */
-html, body {
+/* Flexbox layout */
+.flex-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   margin: 0;
   padding: 0;
 }
 
-body {
+.site-content {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.site-content > #main {
+  flex: 1;
+}
+
+/* Remove ALL extra space below footer */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
   padding-bottom: 0 !important;
 }
 
 .page__footer {
   margin-bottom: 0 !important;
-  padding-bottom: 0.5em;   /* Small internal padding only */
+  padding-bottom: 0.5em !important;
 }
 
 .page__footer footer {
   padding-bottom: 0.5em;
 }
 
-/* Ensure no extra gap from flex or other wrappers */
-.flex-wrapper, .site-content {
-  margin-bottom: 0;
+@media screen and (max-width: 768px) {
+  .page__footer {
+    position: relative;
+    bottom: auto;
+  }
 }

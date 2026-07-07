@@ -38,3 +38,24 @@
     "layout/json_cv"
 ;
 
+/* ==========================================================================
+   FLEX FOOTER FIX
+   ========================================================================== */
+
+.flex-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  /* Full viewport height */
+}
+
+.site-content {
+  flex: 1 0 auto;  /* This grows to push footer down */
+  /* Optional: add padding if needed */
+  padding-bottom: 2em;
+}
+
+.page__footer {
+  flex-shrink: 0;  /* Prevent footer from shrinking */
+  width: 100%;
+  /* Your existing footer styles remain */
+}

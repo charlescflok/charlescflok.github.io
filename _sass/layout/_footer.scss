@@ -89,17 +89,3 @@ html, body {
   }
 }
 
-/* Fix notice boxes in dark mode */
-.notice,
-.notice--info,
-.notice--primary {
-  color: var(--global-text-color) !important;   /* Use normal text color */
-}
-
-html[data-theme="dark"] .notice,
-html[data-theme="dark"] .notice--info,
-html[data-theme="dark"] .notice--primary {
-  background-color: #2a3a4a !important;   /* Darker background */
-  color: #e0e0e0 !important;              /* Light grey text */
-  border-color: #3a4a5a !important;
-}

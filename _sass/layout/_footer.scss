@@ -89,18 +89,4 @@ html, body {
   }
 }
 
-/* AGGRESSIVE: Disable all hyphenation site-wide */
-* {
-  hyphens: none !important;
-  -webkit-hyphens: none !important;
-  -moz-hyphens: none !important;
-  -ms-hyphens: none !important;
-}
 
-/* Justify text */
-.page__content p,
-.page__content li,
-p,
-li {
-  text-align: justify !important;
-}

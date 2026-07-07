@@ -117,3 +117,27 @@ body {
 .page__footer footer {
   padding-bottom: 0.5em;
 }
+
+/* === REMOVE EXTRA SPACE BELOW FOOTER === */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-bottom: 0 !important;
+}
+
+.page__footer {
+  margin-bottom: 0 !important;
+  padding-bottom: 0.5em;   /* Small internal padding only */
+}
+
+.page__footer footer {
+  padding-bottom: 0.5em;
+}
+
+/* Ensure no extra gap from flex or other wrappers */
+.flex-wrapper, .site-content {
+  margin-bottom: 0;
+}

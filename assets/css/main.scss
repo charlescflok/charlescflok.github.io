@@ -45,17 +45,29 @@
 .flex-wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;  /* Full viewport height */
+  min-height: 100vh;
 }
 
 .site-content {
-  flex: 1 0 auto;  /* This grows to push footer down */
-  /* Optional: add padding if needed */
-  padding-bottom: 2em;
+  flex: 1 0 auto;
+  display: flex;           /* New: make content area flex too */
+  flex-direction: row;     /* Sidebar + main content side-by-side */
+  gap: 2em;                /* Optional spacing */
+}
+
+.site-content > #main {
+  flex: 1;                 /* Main content takes remaining space */
 }
 
 .page__footer {
-  flex-shrink: 0;  /* Prevent footer from shrinking */
+  flex-shrink: 0;
   width: 100%;
-  /* Your existing footer styles remain */
+  margin-top: auto;        /* Pushes footer down */
+}
+
+/* Ensure sidebar doesn't get overlapped */
+.sidebar.sticky {
+  align-self: flex-start;  /* Keeps it stuck to top of content area */
+  position: sticky;
+  top: 2em;                /* Adjust if needed to match masthead */
 }

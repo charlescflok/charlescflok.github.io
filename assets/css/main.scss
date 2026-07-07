@@ -73,3 +73,11 @@
   position: sticky;
   top: 2em;                /* Adjust if needed to match masthead */
 }
+
+body {
+  padding-bottom: 0 !important;
+}
+
+.page__footer {
+  margin-bottom: 0 !important;
+}

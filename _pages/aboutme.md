@@ -24,9 +24,9 @@ author_profile: true
 
 <!-- Slide 3 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/ylchungkee.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/ylchungkee.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 <!-- Slide 4 -->
@@ -45,9 +45,9 @@ author_profile: true
 
 <!-- Slide 6 -->
 <div class="mySlides fade-anim" style="position: absolute; width: 100%; height: 100%; display: none;">
-<img src="/images/ylchungkee.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 <div style="position: absolute; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(5px);"></div>
-<img src="/images/ylchungkee.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
+<img src="/images/fujimountwater.jpg" style="position: absolute; width: 100%; height: 100%; object-fit: contain; z-index: 2;">
 </div>
 
 </div>
@@ -93,4 +93,6 @@ Outside of linguistics, I'm a turtle lover, a bookworm, a table tennis leisure p
 One more thing, if you're from a western cultural background and you're not (much) older than me/ not my teacher/ not my senior of some sort/ not extremely close to me, please don't call me Cheuk Fung coz it feels kinda cringe to me. Charles will do.
 <a href="https://youtu.be/T5xyVBqOSog?si=35jf-pyVqysIDbT6" target="_blank">This</a> is a youtube video I found that best explains why it's not the most socially appropriate thing to do in my culture.
 
-Ohh almost forgot to mention: I speak Cantonese, English, and Mandarin, just as a typical HKer does. HK Cantonese is my native tongue and English is my L2. I speak Mandarin quite fluently but you'll have to bear with my heavy Canto accent. Out of the pride of being a linguist, I am learning some other languages (very very) slowly, including Japanese and Weitou dialect (which is my heritage language. It's a regional variety of Cantonese spoken in the villages in the New Territories in HK). I'm learning Japanese mainly because I want to better understand the Japanese anime and manga I love. One thing I really enjoy when learning languages is to discover the relationships, similarities, and differences between languages. For example, the feature that Archaic Chinese doesn't have labiodental consonants (古無輕唇音) is well-preserved in Japanese. That's why the ふ in Japanese, though often represented as fu when romanised, is actually [ɸɯ], which contains a bilabial fricative. Btw I love reading about etymology, historical linguistics, typology, and language contact in my free time. It ignites my passion for learning new languages. I've got tons more nerdy fun facts to share but I guess I'll have to stop for now. If you’ve read all the way to here: Thank you so much for checking out my page!
+Ohh almost forgot to mention: I speak Cantonese, English, and Mandarin, just as a typical HKer does. HK Cantonese is my native tongue and English is my L2. I speak Mandarin quite fluently but you'll have to bear with my heavy Canto accent. Out of the pride of being a linguist, I am learning some other languages (very very) slowly, including Japanese and Weitou dialect (which is my heritage language. It's a regional variety of Cantonese spoken in the villages in the New Territories in HK). I'm learning Japanese mainly because I want to better understand the Japanese anime and manga I love. One thing I really enjoy when learning languages is to discover the relationships, similarities, and differences between languages. For example, the feature that Archaic Chinese doesn't have labiodental consonants (古無輕唇音) is well-preserved in Japanese. That's why the ふ in Japanese, though often represented as fu when romanised, is actually [ɸɯ], which contains a bilabial fricative. Btw I love reading about etymology, historical linguistics, typology, and language contact in my free time. It ignites my passion for learning new languages. I've got tons more things to share but I guess I'll have to stop for now. If you’ve read all the way to here: Thanks for checking out my page! Feel free to reach out if you have anything you wanna discuss with me.
+
+7th July, 2026

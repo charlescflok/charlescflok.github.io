@@ -89,20 +89,18 @@ html, body {
   }
 }
 
-/* Justify all text - no hyphenation */
+/* FORCE no hyphenation on justified text */
 .page__content p,
 .page__content li,
+p,
+li,
 .archive__item-excerpt,
-.single p,
-p {
+.post-content p {
   text-align: justify !important;
-  hyphens: none;           /* Disable hyphenation */
-  -webkit-hyphens: none;
-  -moz-hyphens: none;
-  -ms-hyphens: none;
-}
-
-/* Keep headings left-aligned */
-h1, h2, h3, h4, h5, h6 {
-  text-align: left;
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  -moz-hyphens: none !important;
+  -ms-hyphens: none !important;
+  word-break: normal !important;
+  overflow-wrap: normal !important;
 }

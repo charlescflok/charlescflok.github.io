@@ -89,3 +89,12 @@ html, body {
   }
 }
 
+/* Justify all main text */
+.page__content p,
+.page__content li,
+.archive__item-excerpt,
+.single p,
+p {
+  text-align: justify !important;
+  hyphens: auto;           /* Optional: nicer word breaking */
+}

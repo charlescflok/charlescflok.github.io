@@ -101,3 +101,18 @@
     }
   }
 }
+
+/* Remove extra space below footer */
+body {
+  padding-bottom: 0 !important;   /* Override the template's 9em padding */
+}
+
+.page__footer {
+  margin-bottom: 0;
+  padding-bottom: 1em;   /* Keep some internal padding if you want */
+}
+
+/* Optional: tighter footer */
+.page__footer footer {
+  padding-bottom: 0.5em;
+}

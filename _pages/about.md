@@ -84,7 +84,7 @@ I'm Lok Cheuk Fung. I usually go by Charles.
 
 I'm a linguist, but sometimes I'm not sure if I can call myself one yet (what even are the criteria, anyway?) Hopefully one day I can say it out loud with real confidence. I'm working towards that every day.
 
-<div style="background-color: #93FFE8; border-radius: 6px; padding: 15px; margin: 20px 0;">
+<div style="background-color: #AFEEEE; border-radius: 6px; padding: 15px; margin: 20px 0;">
 
 <strong>What's new?</strong>
 

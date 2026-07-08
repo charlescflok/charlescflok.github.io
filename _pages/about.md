@@ -84,25 +84,14 @@ I'm Lok Cheuk Fung. I usually go by Charles.
 
 I'm a linguist, but sometimes I'm not sure if I can call myself one yet (what even are the criteria, anyway?) Hopefully one day I can say it out loud with real confidence. I'm working towards that every day.
 
-<div class="notice notice--info whats-new-box">
-  <strong>What's new?</strong>
-  <ul style="margin-top: 10px; padding-left: 20px;">
-    <li>Starting from Aug 2026, I'll be a Research Masters student at the <a href="https://fass.nus.edu.sg/elts/" target="_blank">Department of English, Linguistics and Theatre Studies, National University of Singapore</a>.</li>
-    <li>My first paper is published! Check it out <a href="https://journals.sagepub.com/doi/10.1177/13670069251405684?__cf_chl_f_tk=Je3JD2ZHiBOg7c9O6bh63WbOnQCBEsK8cOReGBP1sG0-1782993785-1.0.1.1-UApkNu_rpjJBdzZnfs0r2aIh2LHxrehZVQcjvYDbH5E" target="_blank">here</a>.</li>
-  </ul>
+
+<div style="background-color: #d4fafc; border-radius: 6px; padding: 15px; margin: 20px 0;">
+
+<strong>What's new?</strong>
+
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>Starting from Aug 2026, I'll be a Research Masters student at the <a href="https://fass.nus.edu.sg/elts/" target="_blank">Department of English, Linguistics and Theatre Studies, National University of Singapore</a>.</li>
+  <li>My first paper is published! Check it out <a href="https://journals.sagepub.com/doi/10.1177/13670069251405684?__cf_chl_f_tk=Je3JD2ZHiBOg7c9O6bh63WbOnQCBEsK8cOReGBP1sG0-1782993785-1.0.1.1-UApkNu_rpjJBdzZnfs0r2aIh2LHxrehZVQcjvYDbH5E" target="_blank">here</a>.</li>
+</ul>
+
 </div>
-
-/* What's New box - nice in both light and dark mode */
-.whats-new-box {
-  background-color: #cfecec;
-  border-radius: 6px;
-  padding: 15px;
-  margin: 20px 0;
-  border-left: 4px solid var(--global-base-color);
-}
-
-html[data-theme="dark"] .whats-new-box {
-  background-color: #1e3a4a;     /* Dark teal/blue */
-  color: #e0f0ff;
-  border-left-color: #4fc3f7;
-}

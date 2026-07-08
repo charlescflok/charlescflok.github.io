@@ -60,10 +60,12 @@
   flex: 1 0 auto;
   display: flex;
   flex-direction: row;
+  margin-top: 70px;
 }
 
 .site-content > #main {
   flex: 1;
+  margin-top: 0;
 }
 
 /* Remove ALL extra space below footer */

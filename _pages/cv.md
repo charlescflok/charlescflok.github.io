@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can download my CV [here](/files/lokcheukfung_cv.pdf).
+You can download my CV [here](/files/15072026cv.pdf).
 
 
